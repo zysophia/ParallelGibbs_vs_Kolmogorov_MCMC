@@ -1,0 +1,119 @@
+INFO:root:----- This is a new run -----
+INFO:root:Ising model, n = 3
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.2500, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 1416492
+INFO:root:Kolmogorov takes 2946624 steps, and TPA takes 1374864 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1423068 steps, while z = 1.07250818125421631954, and TPA takes 1416492 steps
+INFO:root:multiplicative error is -0.0101234
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 1640112
+INFO:root:Kolmogorov takes 10838913 steps, and TPA takes 1573041 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1657648 steps, while z = 1.07250818125421631954, and TPA takes 1640112 steps
+INFO:root:multiplicative error is -0.0101234
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 1679080
+INFO:root:Kolmogorov takes 9965136 steps, and TPA takes 1676700 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1722646 steps, while z = 1.07250818125421676363, and TPA takes 1679080 steps
+INFO:root:multiplicative error is -0.0101234
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 1763951
+INFO:root:Kolmogorov takes 39865294 steps, and TPA takes 1764322 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1859851 steps, while z = 1.07250818125421631954, and TPA takes 1763951 steps
+INFO:root:multiplicative error is -0.0101234
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 1940802
+INFO:root:Kolmogorov takes 163171960 steps, and TPA takes 1930768 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 2244668 steps, while z = 1.08086148978625162798, and TPA takes 1940802 steps
+INFO:root:multiplicative error is -0.0024137
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2177006
+INFO:root:Kolmogorov takes 1103592553 steps, and TPA takes 2141497 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 4211730 steps, while z = 1.08345248389239245945, and TPA takes 2177006 steps
+INFO:root:multiplicative error is -0.0000223
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0075, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2245104
+INFO:root:Kolmogorov takes 2018723421 steps, and TPA takes 2282901 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 4264484 steps, while z = 1.08351524520564979071, and TPA takes 2245104 steps
+INFO:root:multiplicative error is 0.0000356
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0050, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2349506
+INFO:root:Kolmogorov takes 4728785700 steps, and TPA takes 2343060 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 5424882 steps, while z = 1.08351549147486347913, and TPA takes 2349506 steps
+INFO:root:multiplicative error is 0.0000358
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0025, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2507235
+INFO:root:Kolmogorov takes 20242023700 steps, and TPA takes 2506288 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 12483301 steps, while z = 1.08345283935719405299, and TPA takes 2507235 steps
+INFO:root:multiplicative error is -0.0000220
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0010, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2783046
+INFO:root:Kolmogorov takes 137761145619 steps, and TPA takes 2748843 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 30564454 steps, while z = 1.08348105499417091124, and TPA takes 2783046 steps
+INFO:root:multiplicative error is 0.0000041
+INFO:root:parameters: bmin = -0.01, bmax = 0.00, eps = 0.0005, delta = 0.25, kappa = 0.10
+INFO:root:real value z = 1.08347666615949655977
+INFO:root:tpa params: steps = 2963293
+INFO:root:Kolmogorov takes 292894432505 steps, and TPA takes 2891921 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 60326015 steps, while z = 1.08348609848664922950, and TPA takes 2963293 steps
+INFO:root:multiplicative error is 0.0000087
+
+
+
+INFO:root:----- This is a new run -----
+INFO:root:Ising model, n = 6
+INFO:root:parameters: bmin = -0.00, bmax = 0.00, eps = 0.2500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 26731370
+INFO:root:Kolmogorov takes 45505916 steps, and TPA takes 26566676 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 26774282 steps, while z = 1.06396234472803397075, and TPA takes 26731370 steps
+INFO:root:parameters: bmin = -0.00, bmax = 0.00, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 29185136
+INFO:root:Kolmogorov takes 133758993 steps, and TPA takes 28694649 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 29594588 steps, while z = 1.06396234472803352666, and TPA takes 29185136 steps
+
+
+
+INFO:root:----- This is a new run -----
+INFO:root:Ising model, n = 6
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.2500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 26023556
+INFO:root:Kolmogorov takes 44483392 steps, and TPA takes 25547752 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 26046800 steps, while z = 1.03148550388652249232, and TPA takes 26023556 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 27614258
+INFO:root:Kolmogorov takes 132574134 steps, and TPA takes 27566154 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 27644654 steps, while z = 1.03148550388652271437, and TPA takes 27614258 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 28545620
+INFO:root:Kolmogorov takes 212763213 steps, and TPA takes 28125851 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 28584956 steps, while z = 1.03148550388652271437, and TPA takes 28545620 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 29939972
+INFO:root:Kolmogorov takes 236495526 steps, and TPA takes 29121954 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 30013280 steps, while z = 1.03148550388652271437, and TPA takes 29939972 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 31146500
+INFO:root:Kolmogorov takes 1723347420 steps, and TPA takes 30806412 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 31516616 steps, while z = 1.03148550388652271437, and TPA takes 31146500 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 33105806
+INFO:root:Kolmogorov takes 5584772398 steps, and TPA takes 33098530 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 37586534 steps, while z = 1.03364824084472450849, and TPA takes 33105806 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0075, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 33921775
+INFO:root:Kolmogorov takes 10079083028 steps, and TPA takes 33987536 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 38740435 steps, while z = 1.03406577902124152679, and TPA takes 33921775 steps
+INFO:root:parameters: bmin = -0.001, bmax = 0.000, eps = 0.0050, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 35108142
+INFO:root:Kolmogorov takes 23223441856 steps, and TPA takes 34856560 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 44940354 steps, while z = 1.03408247629221405894, and TPA takes 35108142 steps

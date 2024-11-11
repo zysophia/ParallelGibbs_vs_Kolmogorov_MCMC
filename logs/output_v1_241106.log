@@ -1,0 +1,951 @@
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75115
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 2119784 steps, and TPA takes 70352 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 126659 steps, while z = 1.37785598385401053534, and TPA takes 75115 steps
+INFO:root:multiplicative error is -0.0013666
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 68922
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 4328549 steps, and TPA takes 79655 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 126788 steps, while z = 1.37968063749645786231, and TPA takes 68922 steps
+INFO:root:multiplicative error is -0.0000441
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80919
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 6344091 steps, and TPA takes 79455 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 280697 steps, while z = 1.37993587283234542262, and TPA takes 80919 steps
+INFO:root:multiplicative error is 0.0001409
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 85341
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 11961477 steps, and TPA takes 80517 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 413264 steps, while z = 1.37964992120557661259, and TPA takes 85341 steps
+INFO:root:multiplicative error is -0.0000664
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 92440
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 31224049 steps, and TPA takes 86353 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 765187 steps, while z = 1.38002863897777050539, and TPA takes 92440 steps
+INFO:root:multiplicative error is 0.0002081
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 93657
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 215772083 steps, and TPA takes 94259 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1615780 steps, while z = 1.37975426558267622035, and TPA takes 93657 steps
+INFO:root:multiplicative error is 0.0000092
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 66141
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1964024 steps, and TPA takes 71672 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 114152 steps, while z = 1.38235028758919042957, and TPA takes 66141 steps
+INFO:root:multiplicative error is 0.0018908
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 70478
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 2641112 steps, and TPA takes 73378 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 186379 steps, while z = 1.37959042005923415708, and TPA takes 70478 steps
+INFO:root:multiplicative error is -0.0001095
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77582
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 6101982 steps, and TPA takes 78426 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 286948 steps, while z = 1.38070659196695877391, and TPA takes 77582 steps
+INFO:root:multiplicative error is 0.0006995
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81291
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 9014576 steps, and TPA takes 82640 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 388921 steps, while z = 1.38023031919629479702, and TPA takes 81291 steps
+INFO:root:multiplicative error is 0.0003543
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86570
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 33482055 steps, and TPA takes 86079 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 619866 steps, while z = 1.37913723603248183913, and TPA takes 86570 steps
+INFO:root:multiplicative error is -0.0004380
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88082
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 181510253 steps, and TPA takes 100517 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1659836 steps, while z = 1.38007917397588442121, and TPA takes 88082 steps
+INFO:root:multiplicative error is 0.0002447
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 72650
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1669471 steps, and TPA takes 74647 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 125460 steps, while z = 1.37942737780742619158, and TPA takes 72650 steps
+INFO:root:multiplicative error is -0.0002277
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80666
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3202373 steps, and TPA takes 73195 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 164298 steps, while z = 1.38002432797361107575, and TPA takes 80666 steps
+INFO:root:multiplicative error is 0.0002050
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83117
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 5647754 steps, and TPA takes 78806 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 226575 steps, while z = 1.37906600393457523523, and TPA takes 83117 steps
+INFO:root:multiplicative error is -0.0004896
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76538
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 7164165 steps, and TPA takes 78021 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 338895 steps, while z = 1.38077937036877163024, and TPA takes 76538 steps
+INFO:root:multiplicative error is 0.0007522
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 95630
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 32450082 steps, and TPA takes 90258 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 565063 steps, while z = 1.37949125234359404324, and TPA takes 95630 steps
+INFO:root:multiplicative error is -0.0001814
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 97714
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 161696411 steps, and TPA takes 100451 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1607130 steps, while z = 1.37937125968193208259, and TPA takes 97714 steps
+INFO:root:multiplicative error is -0.0002684
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 70155
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 2041849 steps, and TPA takes 77425 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 131285 steps, while z = 1.38070206049254218250, and TPA takes 70155 steps
+INFO:root:multiplicative error is 0.0006962
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77717
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3319011 steps, and TPA takes 72469 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 146408 steps, while z = 1.38091221690317933479, and TPA takes 77717 steps
+INFO:root:multiplicative error is 0.0008485
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86110
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 6599144 steps, and TPA takes 79652 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 263388 steps, while z = 1.37935575804505927699, and TPA takes 86110 steps
+INFO:root:multiplicative error is -0.0002796
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83964
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 12959428 steps, and TPA takes 81316 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 328214 steps, while z = 1.37847877607831814650, and TPA takes 83964 steps
+INFO:root:multiplicative error is -0.0009152
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86216
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 36614903 steps, and TPA takes 83903 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 580068 steps, while z = 1.37949832653715609432, and TPA takes 86216 steps
+INFO:root:multiplicative error is -0.0001763
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 101479
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 149351064 steps, and TPA takes 98112 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 2077099 steps, while z = 1.37946776633645851184, and TPA takes 101479 steps
+INFO:root:multiplicative error is -0.0001984
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71130
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1497277 steps, and TPA takes 74317 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 105870 steps, while z = 1.38195955600551667608, and TPA takes 71130 steps
+INFO:root:multiplicative error is 0.0016076
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75798
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 2106781 steps, and TPA takes 75115 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 174626 steps, while z = 1.37996782371964465952, and TPA takes 75798 steps
+INFO:root:multiplicative error is 0.0001640
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73204
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 7979927 steps, and TPA takes 82835 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 299310 steps, while z = 1.37957847558755708484, and TPA takes 73204 steps
+INFO:root:multiplicative error is -0.0001182
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 92113
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 11149657 steps, and TPA takes 85513 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 495314 steps, while z = 1.38001908982527354830, and TPA takes 92113 steps
+INFO:root:multiplicative error is 0.0002012
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 91512
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 24819838 steps, and TPA takes 85030 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 793925 steps, while z = 1.37899775468749785645, and TPA takes 91512 steps
+INFO:root:multiplicative error is -0.0005391
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 92031
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 229906119 steps, and TPA takes 98799 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1603871 steps, while z = 1.37990444487669994267, and TPA takes 92031 steps
+INFO:root:multiplicative error is 0.0001181
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73962
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1822138 steps, and TPA takes 75778 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 122997 steps, while z = 1.37985518530044837249, and TPA takes 73962 steps
+INFO:root:multiplicative error is 0.0000824
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73664
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3903686 steps, and TPA takes 76668 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 156250 steps, while z = 1.37877890823323090430, and TPA takes 73664 steps
+INFO:root:multiplicative error is -0.0006977
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 85939
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 7862314 steps, and TPA takes 82318 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 248020 steps, while z = 1.38071419859465893687, and TPA takes 85939 steps
+INFO:root:multiplicative error is 0.0007050
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81677
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 7610117 steps, and TPA takes 78437 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 395576 steps, while z = 1.38083309409656806999, and TPA takes 81677 steps
+INFO:root:multiplicative error is 0.0007911
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90126
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 24605200 steps, and TPA takes 82936 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 626355 steps, while z = 1.37939146749992658236, and TPA takes 90126 steps
+INFO:root:multiplicative error is -0.0002537
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 98889
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 274892423 steps, and TPA takes 98087 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1617090 steps, while z = 1.37927305647466558192, and TPA takes 98889 steps
+INFO:root:multiplicative error is -0.0003395
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75058
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1571232 steps, and TPA takes 72504 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 109998 steps, while z = 1.38174579424958943186, and TPA takes 75058 steps
+INFO:root:multiplicative error is 0.0014526
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71833
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3865696 steps, and TPA takes 73570 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 161390 steps, while z = 1.38083523979219213729, and TPA takes 71833 steps
+INFO:root:multiplicative error is 0.0007927
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78240
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 7322246 steps, and TPA takes 79514 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 251098 steps, while z = 1.37899146817226725403, and TPA takes 78240 steps
+INFO:root:multiplicative error is -0.0005436
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 84958
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 12638688 steps, and TPA takes 78816 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 345982 steps, while z = 1.38048101015663338131, and TPA takes 84958 steps
+INFO:root:multiplicative error is 0.0005360
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83462
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 22502172 steps, and TPA takes 78780 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 620499 steps, while z = 1.37881739272057224355, and TPA takes 83462 steps
+INFO:root:multiplicative error is -0.0006698
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 102329
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 216588869 steps, and TPA takes 99005 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1626268 steps, while z = 1.37953002498894283789, and TPA takes 102329 steps
+INFO:root:multiplicative error is -0.0001533
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 72553
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1835605 steps, and TPA takes 74461 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 104937 steps, while z = 1.38071552370649719421, and TPA takes 72553 steps
+INFO:root:multiplicative error is 0.0007059
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 79703
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3251535 steps, and TPA takes 77949 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 150444 steps, while z = 1.38303847852301942112, and TPA takes 79703 steps
+INFO:root:multiplicative error is 0.0023896
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78679
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 4537423 steps, and TPA takes 77443 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 278835 steps, while z = 1.38127932626103544500, and TPA takes 78679 steps
+INFO:root:multiplicative error is 0.0011146
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80628
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 8030701 steps, and TPA takes 74701 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 329243 steps, while z = 1.37946515412952730451, and TPA takes 80628 steps
+INFO:root:multiplicative error is -0.0002003
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 92106
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 31410799 steps, and TPA takes 87127 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 561653 steps, while z = 1.38092324145041667194, and TPA takes 92106 steps
+INFO:root:multiplicative error is 0.0008565
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 95557
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 232017245 steps, and TPA takes 98621 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1618341 steps, while z = 1.37984299753264760824, and TPA takes 95557 steps
+INFO:root:multiplicative error is 0.0000736
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73504
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1543588 steps, and TPA takes 68884 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 125306 steps, while z = 1.37983929669759763925, and TPA takes 73504 steps
+INFO:root:multiplicative error is 0.0000709
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81780
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 3365132 steps, and TPA takes 74182 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 141838 steps, while z = 1.37892189462733005811, and TPA takes 81780 steps
+INFO:root:multiplicative error is -0.0005940
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81456
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 5270577 steps, and TPA takes 73581 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 296704 steps, while z = 1.38070760881912280027, and TPA takes 81456 steps
+INFO:root:multiplicative error is 0.0007002
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83774
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 14279437 steps, and TPA takes 85933 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 343051 steps, while z = 1.38015849466222650932, and TPA takes 83774 steps
+INFO:root:multiplicative error is 0.0003022
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86237
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 29736679 steps, and TPA takes 86791 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 553680 steps, while z = 1.37993378475961714358, and TPA takes 86237 steps
+INFO:root:multiplicative error is 0.0001394
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 95117
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 193530165 steps, and TPA takes 102237 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1619294 steps, while z = 1.37952659070565908372, and TPA takes 95117 steps
+INFO:root:multiplicative error is -0.0001558
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71461
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 1706608 steps, and TPA takes 80368 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 101556 steps, while z = 1.38425911324877248809, and TPA takes 71461 steps
+INFO:root:multiplicative error is 0.0032742
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76825
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 2899101 steps, and TPA takes 74435 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 176099 steps, while z = 1.37981406208593782026, and TPA takes 76825 steps
+INFO:root:multiplicative error is 0.0000526
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81635
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 4556305 steps, and TPA takes 75661 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 417201 steps, while z = 1.37985002330936401549, and TPA takes 81635 steps
+INFO:root:multiplicative error is 0.0000786
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 84313
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 9230332 steps, and TPA takes 86236 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 347060 steps, while z = 1.37966772422152450517, and TPA takes 84313 steps
+INFO:root:multiplicative error is -0.0000535
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 94181
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 32849429 steps, and TPA takes 91085 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 623494 steps, while z = 1.38030521732099198395, and TPA takes 94181 steps
+INFO:root:multiplicative error is 0.0004086
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90685
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov takes 190437957 steps, and TPA takes 95781 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 1703460 steps, while z = 1.37944848875354852957, and TPA takes 90685 steps
+INFO:root:multiplicative error is -0.0002124
+
+
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.1 ; 0.5 0.9 -0.2 ; -0.2 0.6 0.2
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 59022
+INFO:root:real value z = 1.26879050222281430926
+INFO:root:Kolmogorov takes 25907943 steps, and TPA takes 57279 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 314684 steps, while z = 1.26924797540945255570, and TPA takes 59022 steps
+INFO:root:multiplicative error is 0.0003606
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.7 ; -0.7 -0.3 0.7 ; -0.9 0.7 -0.4
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 93168
+INFO:root:real value z = 1.42093225744295281743
+INFO:root:Kolmogorov takes 24187645 steps, and TPA takes 90469 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 709795 steps, while z = 1.42066370952103038228, and TPA takes 93168 steps
+INFO:root:multiplicative error is -0.0001890
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.7 ; -0.1 0.4 0.7 ; 0.6 -0.3 -0.6
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74244
+INFO:root:real value z = 1.35339841805577543177
+INFO:root:Kolmogorov takes 27277061 steps, and TPA takes 84713 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 501308 steps, while z = 1.35312117150371724605, and TPA takes 74244 steps
+INFO:root:multiplicative error is -0.0002049
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.3 -0.2 0.8 ; -0.3 0.4 0.1
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71127
+INFO:root:real value z = 1.34018259210123757974
+INFO:root:Kolmogorov takes 18395935 steps, and TPA takes 77299 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 424205 steps, while z = 1.34062389415728966391, and TPA takes 71127 steps
+INFO:root:multiplicative error is 0.0003293
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.9 ; 0.7 -0.6 0.0 ; -0.3 -0.2 -0.5
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81901
+INFO:root:real value z = 1.35336454859984023358
+INFO:root:Kolmogorov takes 34150827 steps, and TPA takes 77367 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 537322 steps, while z = 1.35419450439135102826, and TPA takes 81901 steps
+INFO:root:multiplicative error is 0.0006133
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.2 ; -0.9 -0.5 0.2 ; -0.2 0.7 -0.1
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 58338
+INFO:root:real value z = 1.28134139410353320443
+INFO:root:Kolmogorov takes 20211339 steps, and TPA takes 59511 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 312425 steps, while z = 1.28166848951218370622, and TPA takes 58338 steps
+INFO:root:multiplicative error is 0.0002553
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.5 ; -0.4 -0.7 0.8 ; 0.2 -0.8 0.5
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78961
+INFO:root:real value z = 1.37294050741720141673
+INFO:root:Kolmogorov takes 26618206 steps, and TPA takes 90058 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 602502 steps, while z = 1.37280384170030189672, and TPA takes 78961 steps
+INFO:root:multiplicative error is -0.0000995
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.8 ; 0.6 0.0 -0.7 ; 0.7 -0.9 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 107687
+INFO:root:real value z = 1.44140670980661855793
+INFO:root:Kolmogorov takes 36514189 steps, and TPA takes 102745 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 763588 steps, while z = 1.44091124120068680980, and TPA takes 107687 steps
+INFO:root:multiplicative error is -0.0003437
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.2 ; -0.7 0.0 -0.7 ; -0.1 0.2 0.7
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 57118
+INFO:root:real value z = 1.26878169548277042189
+INFO:root:Kolmogorov takes 16047229 steps, and TPA takes 53293 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 380594 steps, while z = 1.26843677953680789017, and TPA takes 57118 steps
+INFO:root:multiplicative error is -0.0002718
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.6 ; 0.8 0.0 0.0 ; 0.6 0.9 0.4
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76428
+INFO:root:real value z = 1.33926547644801918757
+INFO:root:Kolmogorov takes 18794228 steps, and TPA takes 77072 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 476768 steps, while z = 1.33908985013306880418, and TPA takes 76428 steps
+INFO:root:multiplicative error is -0.0001311
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.0 ; -0.6 0.6 -0.3 ; -0.5 -0.9 0.4
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 64127
+INFO:root:real value z = 1.30012839711125827158
+INFO:root:Kolmogorov takes 28126469 steps, and TPA takes 70661 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 309725 steps, while z = 1.29922261488158308218, and TPA takes 64127 steps
+INFO:root:multiplicative error is -0.0006967
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.1 ; -0.8 0.6 -0.7 ; -0.2 -0.7 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77344
+INFO:root:real value z = 1.35182166868876496579
+INFO:root:Kolmogorov takes 17256964 steps, and TPA takes 80752 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 568125 steps, while z = 1.35177723163551033458, and TPA takes 77344 steps
+INFO:root:multiplicative error is -0.0000329
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.1 ; 0.0 0.4 0.1 ; 0.5 -0.5 -0.4
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 46374
+INFO:root:real value z = 1.22623884183332676479
+INFO:root:Kolmogorov takes 17113217 steps, and TPA takes 43277 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 150596 steps, while z = 1.22584895086344602966, and TPA takes 46374 steps
+INFO:root:multiplicative error is -0.0003180
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.0 -0.3 -0.2 ; 0.9 0.6 0.0
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74951
+INFO:root:real value z = 1.33304992887287721004
+INFO:root:Kolmogorov takes 31653552 steps, and TPA takes 77484 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 395515 steps, while z = 1.33237411025136398557, and TPA takes 74951 steps
+INFO:root:multiplicative error is -0.0005070
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.3 ; 0.4 0.6 0.2 ; 0.0 -0.7 -0.3
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 51787
+INFO:root:real value z = 1.26931354369363047496
+INFO:root:Kolmogorov takes 29976042 steps, and TPA takes 60474 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 322171 steps, while z = 1.26930056982140548882, and TPA takes 51787 steps
+INFO:root:multiplicative error is -0.0000102
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.5 ; 0.6 -0.7 -0.7 ; -0.1 -0.1 0.7
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75000
+INFO:root:real value z = 1.33966065510408083306
+INFO:root:Kolmogorov takes 29152754 steps, and TPA takes 74078 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 425120 steps, while z = 1.34007216099698567291, and TPA takes 75000 steps
+INFO:root:multiplicative error is 0.0003072
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; -0.6 -0.1 0.5 ; -0.1 -0.3 -0.6
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77862
+INFO:root:real value z = 1.34687471880362430454
+INFO:root:Kolmogorov takes 24787828 steps, and TPA takes 79588 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 490638 steps, while z = 1.34667179561786198860, and TPA takes 77862 steps
+INFO:root:multiplicative error is -0.0001507
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = -0.6 ; 0.3 -0.5 0.5 ; -0.2 -0.3 -0.7
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 70698
+INFO:root:real value z = 1.32723971950527608321
+INFO:root:Kolmogorov takes 34296813 steps, and TPA takes 77229 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 355098 steps, while z = 1.32735437657275423540, and TPA takes 70698 steps
+INFO:root:multiplicative error is 0.0000864
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.7 ; -0.2 0.0 0.5 ; 0.1 0.9 -0.6
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74591
+INFO:root:real value z = 1.32659998973598369787
+INFO:root:Kolmogorov takes 18479852 steps, and TPA takes 68228 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 507692 steps, while z = 1.32698671646342125641, and TPA takes 74591 steps
+INFO:root:multiplicative error is 0.0002915
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.8 ; -0.6 0.2 -0.7 ; 0.2 0.4 -0.4
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 79460
+INFO:root:real value z = 1.35357742154349902641
+INFO:root:Kolmogorov takes 27031252 steps, and TPA takes 78016 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 590618 steps, while z = 1.35364873255928364060, and TPA takes 79460 steps
+INFO:root:multiplicative error is 0.0000527
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; -0.9 0.4 -0.2 ; -0.3 0.5 -0.2
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83772
+INFO:root:real value z = 1.36668821452511823900
+INFO:root:Kolmogorov takes 23725194 steps, and TPA takes 79674 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 582474 steps, while z = 1.36717167377916526405, and TPA takes 83772 steps
+INFO:root:multiplicative error is 0.0003537
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.3 ; -0.3 0.0 0.0 ; 0.7 -0.8 0.0
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 46835
+INFO:root:real value z = 1.24405699125615698541
+INFO:root:Kolmogorov takes 14832042 steps, and TPA takes 46950 steps
+INFO:root:RunAlgorithm parallelGibbs, takes 189650 steps, while z = 1.24474868790381343331, and TPA takes 46835 steps
+INFO:root:multiplicative error is 0.0005560
+
+
+
+
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78422
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2215684 steps, while z = 1.38092566512175962679, and TPA takes 77548 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75803
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2952242 steps, while z = 1.37990795370657082231, and TPA takes 73652 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80661
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 9052695 steps, while z = 1.38035894386726010197, and TPA takes 81075 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 84292
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6642600 steps, while z = 1.38186262582592656045, and TPA takes 76248 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88659
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 32795421 steps, while z = 1.38008761117171241395, and TPA takes 90213 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90855
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 164125873 steps, while z = 1.38076437465709545016, and TPA takes 93793 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73336
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1979440 steps, while z = 1.38148209314209080567, and TPA takes 77848 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76164
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 4341130 steps, while z = 1.37934669025682632437, and TPA takes 79548 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81851
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8799962 steps, while z = 1.38158329084230624417, and TPA takes 83198 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 84554
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 12660093 steps, while z = 1.38053567172228208726, and TPA takes 89613 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83128
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 32155304 steps, while z = 1.38034167260209605921, and TPA takes 87728 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88236
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 270998657 steps, while z = 1.38060628287558517791, and TPA takes 102113 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 72651
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1908369 steps, while z = 1.38258121694208657715, and TPA takes 75153 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75133
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 3590896 steps, while z = 1.38223495768426074548, and TPA takes 77906 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 79467
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6152991 steps, while z = 1.37977383896411720521, and TPA takes 81219 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 84790
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 12209068 steps, while z = 1.38032254264299725222, and TPA takes 84124 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 85778
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 21945557 steps, while z = 1.38067111298616307380, and TPA takes 80093 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90877
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 229736026 steps, while z = 1.38076402464649650170, and TPA takes 91114 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73894
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1607873 steps, while z = 1.38311434677267097726, and TPA takes 68489 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78569
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2497162 steps, while z = 1.37932686943147753134, and TPA takes 78512 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82808
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 4406027 steps, while z = 1.38143563158314486294, and TPA takes 76919 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81454
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 9165717 steps, while z = 1.37969252745497428236, and TPA takes 85269 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86646
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 32341417 steps, while z = 1.38068985239488117855, and TPA takes 87865 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 89132
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 228127830 steps, while z = 1.38037423390999536288, and TPA takes 106998 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74474
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2252568 steps, while z = 1.38338902736326385678, and TPA takes 75624 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76360
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2671478 steps, while z = 1.38013070142104754545, and TPA takes 75196 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83936
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 7156615 steps, while z = 1.38121706666419852283, and TPA takes 79195 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77980
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 13121907 steps, while z = 1.38022183007375010000, and TPA takes 84675 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 89405
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 25112810 steps, while z = 1.38007345555622329414, and TPA takes 85754 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 96802
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 160391369 steps, while z = 1.38060410779013387206, and TPA takes 94673 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75289
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1533702 steps, while z = 1.37863519053478933429, and TPA takes 73782 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81213
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2558012 steps, while z = 1.37935455879466939422, and TPA takes 75922 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78578
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 9816111 steps, while z = 1.38079452493761434262, and TPA takes 86811 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78780
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 10346924 steps, while z = 1.37970853133360638054, and TPA takes 88988 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88976
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 24904784 steps, while z = 1.38043391257539660444, and TPA takes 90272 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 96128
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 147235959 steps, while z = 1.38100044422620849005, and TPA takes 94311 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 64728
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1897311 steps, while z = 1.38224214553578761411, and TPA takes 67791 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77905
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 3090690 steps, while z = 1.38014970719315654968, and TPA takes 78876 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80323
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 4584659 steps, while z = 1.38055960503797758854, and TPA takes 76463 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82411
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 10288266 steps, while z = 1.38133167409207491261, and TPA takes 83370 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83594
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 30537983 steps, while z = 1.38039599233501708575, and TPA takes 91055 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 97019
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 264018374 steps, while z = 1.38046664375441618944, and TPA takes 105374 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 67682
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1104516 steps, while z = 1.38146057283144041428, and TPA takes 65940 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77376
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2572521 steps, while z = 1.38053582940132057999, and TPA takes 74571 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78789
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 5687099 steps, while z = 1.38073947934025276219, and TPA takes 83711 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82903
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 10139055 steps, while z = 1.38093492388228722412, and TPA takes 82671 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75311
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 33960473 steps, while z = 1.38151003479296075049, and TPA takes 86273 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90990
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 254429234 steps, while z = 1.38108012369864918689, and TPA takes 98306 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 73870
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2201822 steps, while z = 1.37996941212880908090, and TPA takes 76622 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 72205
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 3195692 steps, while z = 1.38084252839712062766, and TPA takes 82374 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78866
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8348434 steps, while z = 1.38053413491976351146, and TPA takes 79390 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88781
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 7340082 steps, while z = 1.38010600115310144709, and TPA takes 84210 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 87190
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 26760727 steps, while z = 1.38082651108407583607, and TPA takes 86455 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 96439
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 210904828 steps, while z = 1.38029440162342842413, and TPA takes 99244 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 79260
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1779508 steps, while z = 1.38001786135341419914, and TPA takes 84892 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71569
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2640219 steps, while z = 1.38005743729760577132, and TPA takes 72485 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78151
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 7070477 steps, while z = 1.38014218816478329011, and TPA takes 82601 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82629
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 9293897 steps, while z = 1.37978017046174450400, and TPA takes 86153 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 83432
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 23173278 steps, while z = 1.38088805952282633882, and TPA takes 85686 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 87799
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 190601328 steps, while z = 1.38062333589064945016, and TPA takes 96744 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 70967
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1754926 steps, while z = 1.38147491447595505143, and TPA takes 75094 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 77819
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 3749903 steps, while z = 1.38210826912509476827, and TPA takes 78313 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75042
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6641033 steps, while z = 1.38122441331286771593, and TPA takes 80213 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 80589
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 9962780 steps, while z = 1.37985397604150450412, and TPA takes 86732 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90490
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 28721126 steps, while z = 1.38027354138045432741, and TPA takes 80822 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 94494
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 260934184 steps, while z = 1.38032138452438002396, and TPA takes 106936 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 65280
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2536917 steps, while z = 1.38091748939177727529, and TPA takes 80925 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74446
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2460867 steps, while z = 1.38057103438567252418, and TPA takes 77109 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 86404
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6313528 steps, while z = 1.38054255385803559264, and TPA takes 76444 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 79356
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8502481 steps, while z = 1.38009712908413439969, and TPA takes 79729 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88616
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 39119260 steps, while z = 1.38026959012619032663, and TPA takes 90868 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 96997
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 192066706 steps, while z = 1.38078070261412699793, and TPA takes 100450 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74742
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1826439 steps, while z = 1.38253755549955226201, and TPA takes 72687 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74842
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 3946682 steps, while z = 1.38034425508102565061, and TPA takes 78428 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82235
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6881418 steps, while z = 1.37987786677282442405, and TPA takes 79518 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 91663
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6889071 steps, while z = 1.38135219136211584434, and TPA takes 78735 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 82905
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 31090867 steps, while z = 1.38056559297640268902, and TPA takes 86011 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 101605
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 204735724 steps, while z = 1.38061592335013205712, and TPA takes 101644 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 71786
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2079930 steps, while z = 1.38528734497174443874, and TPA takes 78546 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 74683
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 2474447 steps, while z = 1.37985257131391048091, and TPA takes 78001 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 75476
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8232213 steps, while z = 1.38139597447336770486, and TPA takes 80265 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76624
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8537190 steps, while z = 1.38109683662055049425, and TPA takes 82614 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 88154
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 29444839 steps, while z = 1.38052210112366702255, and TPA takes 87199 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 91808
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 180854806 steps, while z = 1.38055154600484275562, and TPA takes 94702 steps, 
+INFO:root:----- This is a new run -----
+INFO:root:Voting model -- logical, n = 3, w = 0.9 ; 0.2 0.5 0.1 ; -0.8 -0.2 -0.9
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.1000, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 78601
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 1433794 steps, while z = 1.37860702054795192240, and TPA takes 73666 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0750, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81669
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 4255930 steps, while z = 1.38166876889646150772, and TPA takes 76820 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0500, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 76829
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 6384286 steps, while z = 1.38085542726760057697, and TPA takes 78322 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0400, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81500
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 8622571 steps, while z = 1.38229346324048729677, and TPA takes 83131 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0250, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 81434
+INFO:root:real value z = 1.37974151689144397537
+INFO:root:Kolmogorov (compute z) takes 29999524 steps, while z = 1.37982098792812135635, and TPA takes 83956 steps, 
+INFO:root:parameters: bmin = 0.00, bmax = 0.10, eps = 0.0100, delta = 0.25, kappa = 0.10
+INFO:root:tpa params: steps = 90876
+INFO:root:real value z = 1.37974151689144397537
