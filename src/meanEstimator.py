@@ -10,12 +10,16 @@ import math
 def mean_estimator(gibbsChain, f, e, d, a, b, use_trace):
     Lambda = gibbsChain.get_Lambda()
     uniform_mixing = gibbsChain.get_uniform_mixing()
+
     R = b-a
-    gamma = 1.1
+    gamma = 2
     # print("b/a", b/a)
     print("\nR = ", R, "lambda = ", Lambda)
     if use_trace:
         T = int(np.ceil((1+Lambda)/(1-Lambda) * np.log(2) / 2))
+        # use loose bound:
+        #T = 15*int(np.ceil((1+Lambda)/(1-Lambda) * np.log(2) / 2))
+
     else:
         T = 1
     print("T = ", T)
@@ -34,9 +38,10 @@ def mean_estimator(gibbsChain, f, e, d, a, b, use_trace):
     pchain1vals = []
     pchain2vals = []
     m = 0
+    
 
     for i in range(1, I+1):
-        mi = int(np.ceil(gamma**i*alpha))
+        mi = int(np.floor(gamma**i*alpha))
         pchain1vals += [0 for _ in range(mi-m)]
         pchain2vals += [0 for _ in range(mi-m)]
         for j in range(m, mi):

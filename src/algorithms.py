@@ -10,11 +10,15 @@ from meanEstimator import *
 from tpa import *
 
 
-def kolmogorov(e, kappa, gibbsChain, bmin, bmax, d, compute_z = False):
+def kolmogorov(schedule , TPAsteps ,e, kappa, gibbsChain, bmin, bmax, d, compute_z = False):
     print("running kolmogorov sampling...")
     print(f"e = {e}, kappa = {kappa}, bmin = {bmin}, bmax = {bmax}, d = {d}")
     tao_dict = {256: 1.260, 128: 1.372, 64:1.539, 32: 1.794, 16: 2.197, 8: 2.86, 4:4.0}
-    sample_complexity = 0
+    sample_complexity1 = 0
+    sample_complexity2= 0
+    Hmax = gibbsChain.get_Hmax()
+    Hmin = gibbsChain.get_Hmin()
+
 
     etilt = 1 - 1/np.sqrt((1+e))
     r = int(np.ceil(2/etilt**2))
@@ -24,21 +28,44 @@ def kolmogorov(e, kappa, gibbsChain, bmin, bmax, d, compute_z = False):
 
     gibbsChain.beta = bmax
     q = np.log(gibbsChain.get_upper_Q())
+  
     tvd = kappa/ (k*q + m*q*r + 3*r + 1)
-    # sample complexity for TPA
-    res = TPA_k_d(bmin = bmin, bmax=bmax, k = k, d = d, gibbsChain = gibbsChain, tvd = tvd)
-    schedule, TPAsteps = res["schedule"], res["steps"]
+    l=len(schedule)
+    epsprime = ((1+e)**(1/l)-1) / ((1+e)**(1/l)+1)
+    delta=0.3
+    print(f"r and log \delta/ell  r={r}, delta/ell={np.log(2*l/delta)}")
 
-    sample_complexity += TPAsteps
-    # sample complexity for paired_product
+    
+    
+    # sample complexity for TPA
+    #res = TPA_k_d(bmin = bmin, bmax=bmax, k = k, d = d, gibbsChain = gibbsChain, tvd = tvd)
+    #schedule, TPAsteps = res["schedule"], res["steps"]
+
+ 
+
+    # sample complexity for paired_product first we calculate it using Kolmogorov's parameters 
     for beta in schedule[:-1]:
         gibbsChain.beta = beta
-        sample_complexity += gibbsChain.compute_mixingtime(tvd = tvd) * r
-    for beta in schedule[1:]:
-        gibbsChain.beta = beta
-        sample_complexity += gibbsChain.compute_mixingtime(tvd = tvd) * r
+        sample_complexity1 += gibbsChain.compute_mixingtime(tvd = tvd) * r
+    # sample complexity for paired_product we now use Hoeffding bound 
+
+    for i in range(l-1):
+        gap = schedule[i+1]-schedule[i]
+        gibbsChain.beta = schedule[i]
+        Rf=np.exp(-gap/2*Hmin)-np.exp(-gap/2*Hmax)
+        Rg=np.exp(gap/2*Hmax)-np.exp(gap/2*Hmin)
+        print(f"Rf and Rg, Rf={Rf}, Rg={Rg}")
+        sample_complexity2 += gibbsChain.compute_mixingtime(tvd = 1/4) * math.ceil(np.log(2*l/delta)*(Rf**2/(epsprime**2)+Rg**2/(epsprime**2) ))
+
+
+   
+
+
+    print(f"sample complexity old ={sample_complexity1}, sample complexity new={sample_complexity2}")
+
+
     if (compute_z == False):
-        return sample_complexity, TPAsteps, None
+        return sample_complexity1, sample_complexity2,  TPAsteps, None
 
     # in this case, we actually run KOL to compute z
     zz = [0 for _ in range(r)]
@@ -59,7 +86,8 @@ def kolmogorov(e, kappa, gibbsChain, bmin, bmax, d, compute_z = False):
                 gibbsChain.step()
             z *= func_g(gibbsChain.current)
         zz[rr] = z
-    return sample_complexity, TPAsteps, np.mean(zz)
+    return sample_complexity1, sample_complexity2,   TPAsteps, np.mean(zz)
+
 
 
 
@@ -75,7 +103,7 @@ def parallelGibbs(schedule = None, TPAsteps = 0, bmin = 0, bmax = 1, gibbsChain 
     sample_complexity = 0
     Hmax = gibbsChain.get_Hmax()
     Hmin = gibbsChain.get_Hmin()
-    sample_complexity += TPAsteps
+   # sample_complexity += TPAsteps
     l = len(schedule)
     
     # get mean-estimator params
